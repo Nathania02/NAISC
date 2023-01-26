@@ -1,0 +1,5 @@
+nodes:
+- input.live
+- model.posenet
+- draw.poses
+- output.screen
