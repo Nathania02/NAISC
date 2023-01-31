@@ -1,3 +1,3 @@
 # NAISC
 
-# we fix people's backs and lives!!
+# we fix peoples' backs and lives!!
