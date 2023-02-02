@@ -1,5 +1,20 @@
+# nodes:
+# - input.visual: 
+#     source: 0
+# - model.posenet
+# - custom_nodes.dabble.posture
+# - draw.poses
+# - output.screen
+
+
 nodes:
-- input.live
+- input.visual:
+    source: 0
+- model.yolo
 - model.posenet
+- dabble.fps
+- custom_nodes.dabble.posture
 - draw.poses
+- draw.legend:
+    show: ["fps"]
 - output.screen
