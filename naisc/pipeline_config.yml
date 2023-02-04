@@ -1,16 +1,6 @@
-# nodes:
-# - input.visual: 
-#     source: 0
-# - model.posenet
-# - custom_nodes.dabble.posture
-# - draw.poses
-# - output.screen
-
-
 nodes:
 - input.visual:
-    source: 0
-- model.yolo
+    source: Exercisewallangel.mp4
 - model.posenet
 - dabble.fps
 - custom_nodes.dabble.posture
