@@ -5,6 +5,10 @@
 **Installation**
 -----------------
 Install PeekingDuck from [PyPI](https://pypi.org/project/peekingduck/)
+```
+> pip install peekingduck
+```
+
 
 **Usage**
 ------------------------
