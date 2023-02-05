@@ -24,4 +24,5 @@ Run the Posture pipeline.
 > peekingduck run
 ```
 
+Terminate the program by clicking on the output screen and pressing `q`.
 
